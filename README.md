@@ -1,8 +1,9 @@
-# React + Vite
+# contextapi-and-zustand
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project provides a simple comparison of two popular state management solutions in React: Context API and Zustand.
 
-Currently, two official plugins are available:
+**Context API** is a built-in React feature for sharing state across components without prop drilling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Zustand** is a small, fast, and scalable state management library with a simple and intuitive API.
+
+This project demonstrates how to implement the same functionality using both approaches, allowing you to compare their syntax, usage, and performance considerations.
